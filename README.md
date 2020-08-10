@@ -4,10 +4,8 @@
 <!--
 **Arthurcn96/Arthurcn96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<div style="padding: 13em">
 <img align="right"  max-width="480" max-height="240" alt="GIF" src="https://raw.githubusercontent.com/Arthurcn96/Arthurcn96/master/helloThere.gif" />
-</div>
-
+<br>
 Here are some ideas to get you started:
 
 
