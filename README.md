@@ -5,7 +5,7 @@
 **Arthurcn96/Arthurcn96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" style="padding:1px" max-width="480" max-height="240" alt="GIF" src="https://raw.githubusercontent.com/Arthurcn96/Arthurcn96/master/helloThere.gif" />
+<img align="right" style="padding:10px" max-width="480" max-height="240" alt="GIF" src="https://raw.githubusercontent.com/Arthurcn96/Arthurcn96/master/helloThere.gif" />
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning React
