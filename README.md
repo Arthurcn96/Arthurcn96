@@ -5,7 +5,7 @@
 **Arthurcn96/Arthurcn96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" width="480" height="240" alt="GIF" src="helloThere.gif" />
+<img align="right" width="480" height="240" alt="GIF" src="https://raw.githubusercontent.com/Arthurcn96/Arthurcn96/master/helloThere.gif" />
 
 Here are some ideas to get you started:
 
