@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 🎓 My [resume](https://github.com/Arthurcn96/resume/blob/master/Arthur.pdf)
 
 
-<!--
-###  Technologies 💡️
+
+## Technologies 💡️
 
 <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" >
 <img alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
@@ -29,12 +29,14 @@ Here are some ideas to get you started:
 <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Godot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" />
 <img alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" >
-
+<!--
 
 **Arthurcn96/Arthurcn96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 
+
+## 📊 Some stats:
 
 
 <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=Arthurcn96&show_icons=true&count_private=true&hide=prs)" alt="Arthurcn96" />
