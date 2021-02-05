@@ -8,9 +8,7 @@
 
 Here are some ideas to get you started:
 
-
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on React and Godot projects and Flutter
+- 👯 I’m looking to collaborate on Flutter and Godot projects and 
 - 🤔 I’m looking for help with level design
 - 💬 Ask me about anything [![Telegram Badge](https://img.shields.io/badge/-@Arthurcn9-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Arthurcn9)
 - 📫 How to reach me: Arthurcn96@gmail.com 
