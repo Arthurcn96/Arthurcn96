@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🤖 I like working on Python and Machine Learning.
 - 👯 I’m looking to collaborate on Flutter
-- 🤔 I’m looking for help with UI/UX
+- 🤔 I’m looking for help with AI
 - 💬 Ask me about anything:
     - [![Telegram Badge](https://img.shields.io/badge/-@Arthurcn9-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Arthurcn9)
     - [![Gmail Badge](https://img.shields.io/badge/-@Arthurcn9-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:Arthurcn96@gmail.com)
