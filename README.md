@@ -19,4 +19,14 @@ Here are some ideas to get you started:
 - 🎓 My [resume](https://github.com/Arthurcn96/resume/blob/master/Resume_PT-BR.pdf)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 20 October 2019 - To: 27 April 2023
+
+Total Time: 1,042 hrs 32 mins
+
+Python              317 hrs 42 mins ███████▓░░░░░░░░░░░░░░░░░   30.47 %
+Other               279 hrs 13 mins ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
+```
+
 <!--END_SECTION:waka-->
