@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🎓 My [resume](https://github.com/Arthurcn96/resume/blob/master/Resume_PT-BR.pdf)
 
 
-### Coding stats
+## Coding stats
 <!--START_SECTION:waka-->
 
 ```text
