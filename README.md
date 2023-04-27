@@ -18,9 +18,5 @@ Here are some ideas to get you started:
 
 - 🎓 My [resume](https://github.com/Arthurcn96/resume/blob/master/Resume_PT-BR.pdf)
 
-<figure>
-    <embed src="https://wakatime.com/share/@Arthurcn/877910e8-77b3-484c-a959-15e10bc9410a.svg"></embed>
-</figure>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
