@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2023 - To: 30 May 2023
+From: 01 May 2023 - To: 31 May 2023
 
-Total Time: 24 hrs 43 mins
+Total Time: 24 hrs 44 mins
 
 Python       22 hrs 31 mins  ██████████████████████▓░░   91.10 %
 Text         58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
