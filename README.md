@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 ## Coding stats
 <!--START_SECTION:waka-->
 
-```text
-From: 01 May 2023 - To: 31 May 2023
+```txt
+From: 02 May 2023 - To: 01 June 2023
 
-Total Time: 24 hrs 44 mins
+Total Time: 24 hrs 47 mins
 
-Python       22 hrs 31 mins  ██████████████████████▓░░   91.10 %
+Python       22 hrs 35 mins  ██████████████████████▓░░   91.11 %
 Text         58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-Other        57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Other        57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 INI          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
