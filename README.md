@@ -23,15 +23,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 May 2023 - To: 05 June 2023
+From: 07 May 2023 - To: 06 June 2023
 
-Total Time: 11 hrs 57 mins
+Total Time: 13 hrs 38 mins
 
-Python       9 hrs 58 mins   █████████████████████░░░░   83.44 %
-Text         58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Other        57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-INI          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Python       11 hrs 27 mins  █████████████████████░░░░   84.05 %
+Text         1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Other        57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+INI          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
