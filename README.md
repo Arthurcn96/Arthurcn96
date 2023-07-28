@@ -23,20 +23,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2023 - To: 25 July 2023
+From: 26 June 2023 - To: 26 July 2023
 
-Total Time: 121 hrs 28 mins
+Total Time: 128 hrs 51 mins
 
-Python       106 hrs 57 mins ██████████████████████░░░   88.05 %
-INI          4 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-Text         3 hrs 5 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-YAML         2 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Markdown     1 hr 56 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Other        1 hr 30 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Dart         38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-CSV          36 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Roff         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Git Config   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Python       114 hrs 15 mins ██████████████████████▒░░   88.67 %
+INI          4 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Text         3 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+YAML         2 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Markdown     1 hr 56 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Other        1 hr 30 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Dart         38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+CSV          36 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Roff         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Git Config   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
