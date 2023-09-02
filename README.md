@@ -23,18 +23,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2023 - To: 30 August 2023
+From: 01 August 2023 - To: 31 August 2023
 
-Total Time: 113 hrs 59 mins
+Total Time: 110 hrs 36 mins
 
-Python       106 hrs 11 mins ███████████████████████▒░   93.16 %
-Markdown     1 hr 46 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-INI          1 hr 25 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-YAML         1 hr 16 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Text         52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Other        50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Ezhil        46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Git Config   32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Python       102 hrs 46 mins ███████████████████████▒░   92.92 %
+Markdown     1 hr 46 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+INI          1 hr 25 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+YAML         1 hr 18 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Text         52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Other        50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Ezhil        46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Git Config   32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 CSV          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
