@@ -23,20 +23,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2023 - To: 12 October 2023
+From: 13 September 2023 - To: 13 October 2023
 
-Total Time: 92 hrs 47 mins
+Total Time: 86 hrs 51 mins
 
-Python       81 hrs 54 mins  ██████████████████████░░░   88.27 %
-GDScript     4 hrs 42 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Text         2 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Assembly     1 hr 5 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Prolog       1 hr 1 min      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-YAML         41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Ezhil        30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-INI          11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python       75 hrs 58 mins  ██████████████████████░░░   87.48 %
+GDScript     4 hrs 42 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Text         2 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Assembly     1 hr 5 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Prolog       1 hr 1 min      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+YAML         41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Ezhil        30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+INI          11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
