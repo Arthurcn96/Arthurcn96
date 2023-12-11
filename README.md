@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2023 - To: 07 December 2023
+From: 09 November 2023 - To: 09 December 2023
 
 Total Time: 1 hr 52 mins
 
-Python   1 hr 43 mins    ███████████████████████░░   91.68 %
-TeX      8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Python   1 hr 43 mins    ███████████████████████░░   91.99 %
+TeX      8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
 ```
 
 <!--END_SECTION:waka-->
