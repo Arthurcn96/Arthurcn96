@@ -7,13 +7,13 @@ Machine Learning Engineer | Python Developer | AI Enthusiast
 <img align="right"  max-width="440" max-height="340" alt="GIF" src="https://raw.githubusercontent.com/Arthurcn96/Arthurcn96/master/helloThere.gif" />
 
 
+
 ### About Me
 
-I build intelligent systems that go beyond notebooks and actually run in production.
+I build intelligent systems to run in production.
 
 - 🤖 Focused on **Machine Learning, MLOps and AI systems**
 - 🐍 Strong background in **Python and backend development**
-- 🏗️ Passionate about **clean, scalable and testable code**
 - 📊 Experience with **data, engineering and model evaluation**
 - ☁️ Interested in **private clouds and automation**
 
