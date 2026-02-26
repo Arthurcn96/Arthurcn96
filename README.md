@@ -17,24 +17,9 @@ I build intelligent systems to run in production.
 - 📊 Experience with **data, engineering and model evaluation**
 - ☁️ Interested in **private clouds and automation**
 
----
 
-### What I’m Working On
-
-- Real-time and batch **ML pipelines**
-- **LLMs running locally** (Docker, ROCm, Ollama)
-- End-to-end ML systems (**data → model → API → production**)
-
----
-
-### Open to Collaborate On
-
-- AI & Machine Learning projects  
-- Backend systems for ML  
-- MLOps & model deployment  
-- Open-source AI tools  
-
----
+</br>
+</br>
 
 ### Let's Talk
 
